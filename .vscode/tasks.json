@@ -7,7 +7,7 @@
         {
             "label": "Less Compile",
             "type": "shell",
-            "command": "lessc --clean-css themes/coder-portfolio/static/less/style.less themes/coder-portfolio/static/css/style.min.css",
+            "command": "lessc --clean-css static/less/override.less static/css/override.min.css",
             "group": "build"
         }
     ]
