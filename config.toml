@@ -18,12 +18,12 @@ pygmentsUseClasses = true # new add
     keywords = "developer,personal,robots,backend" # Site keywords.
     avatarurl = "img/profile.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    #footercontent = "Hey people"
+    footercontent = " "
     #fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
     #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Custom CSS
@@ -35,7 +35,7 @@ pygmentsUseClasses = true # new add
     # RTL support
     rtl = false
 
-    #snsShare = true # new add
+    snsShare = false # new add
 
     # thumbnail = "images/tn.png" # default sns thumbnail
 
